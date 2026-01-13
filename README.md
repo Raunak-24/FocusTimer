@@ -1,4 +1,4 @@
-# FocusTimer (CocucTimer) ⏳📱
+# FocusTimer ⏳📱
 
 A simple and clean **Focus Timer Android app** (Pomodoro-style) to help you stay productive and manage deep work sessions.
 
@@ -16,9 +16,9 @@ A simple and clean **Focus Timer Android app** (Pomodoro-style) to help you stay
 
 ## 📸 Screenshots
 
-![Face Recognised](ss2.jpeg)
+![Face Recognised](ss2.png)
 
-![Face not REcognised](ss1.jpeg)
+![Face not REcognised](ss1.png)
 
 ---
 
