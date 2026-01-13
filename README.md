@@ -66,7 +66,7 @@ app/build/outputs/apk/debug/app-debug.apk
 
 ## 🧾 Project Structure
 
-
+```text
 FocusTimer/
 │── app/
 │   └── src/                # Application source code
