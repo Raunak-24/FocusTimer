@@ -18,7 +18,7 @@ A simple and clean **Focus Timer Android app** (Pomodoro-style) to help you stay
 
 ![Face Recognised](screenshots/ss2.jpeg)
 
-![Face not REcognised](screenshots/ss1.png)
+![Face not REcognised](screenshots/ss1.jpeg)
 
 ---
 
@@ -51,11 +51,11 @@ File → Open → Select project folder
 
 Let Gradle sync complete ✅
 
-Run the app:
+## Run the app:
 
 Click Run ▶️ and select emulator / device
 
-📦 Build APK
+## 📦 Build APK
 To generate APK:
 
 Android Studio → Build → Build Bundle(s) / APK(s) → Build APK(s)
@@ -64,7 +64,7 @@ APK will be located at:
 
 app/build/outputs/apk/debug/app-debug.apk
 
-🧾 Project Structure
+## 🧾 Project Structure
 
 
 FocusTimer/
@@ -76,14 +76,17 @@ FocusTimer/
 │── gradlew
 │── gradlew.bat
 │── .gitignore
-🤝 Contributing
+
+## 🤝 Contributing
+
 Pull requests are welcome!
 For major changes, please open an issue first to discuss what you would like to change.
 
-📜 License
+## 📜 License
+
 You are free to use, modify, and distribute it.
 
-👨‍💻 Author
-Yash Rajput
+## 👨‍💻 Author
 
+Yash Rajput
 GitHub: Raunak-24
