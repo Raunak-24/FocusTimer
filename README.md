@@ -16,9 +16,9 @@ A simple and clean **Focus Timer Android app** (Pomodoro-style) to help you stay
 
 ## 📸 Screenshots
 
-![Face Recognised](ss2.png)
+![Face Recognised](screenshots/ss2.jpeg)
 
-![Face not REcognised](ss1.png)
+![Face not REcognised](screenshots/ss1.png)
 
 ---
 
